@@ -1,0 +1,25 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+.najot-img {
+    height: 100%;
+    width: 612px;
+}
+
+.box-form {
+    margin-bottom: 50px;
+}
+
+body {
+    overflow-y: hidden;
+    margin: 0;
+}
+
+.table-box {
+    padding: 50px;
+}
